@@ -46,7 +46,7 @@ Calling & Tool Use, Retrieval-Augmented Generation (RAG), PyTorch, TensorFlow
 | WayIn LLC | Head of Analysis & Testing Department | Aug 2023 – Aug 2024 |
 | AITECH Oman | AI Development Engineer | Jun 2021 – Jun 2022 |
 
-## Featured Projects
+## Competitions & Achievements
 
 <table>
 <tr>
