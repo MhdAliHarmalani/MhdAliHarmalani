@@ -35,7 +35,7 @@ Calling & Tool Use, Retrieval-Augmented Generation (RAG), PyTorch, TensorFlow
 **Security:** JWT, MFA, RBAC, Row-Level Security, Audit Logging
 
 **Tooling:** Git, GitHub Actions, GitLab CI, Sentry, Google Cloud Console, Google Business Profile
-(GBP) API, frontend integration (Vue.js, React/Vite, Flutter)
+(GBP) API, frontend integration (React/Vite, Flutter)
 
 ## Experience
 
@@ -64,10 +64,6 @@ billing — exposing 350+ secured DRF endpoints; automated 70% of manual operati
 **Brokers 2025 — Real Estate Mobile App Backend**
 Django backend for a real estate marketplace app, with PostgreSQL/PostGIS spatial data, Celery/RabbitMQ
 background tasks, and two-factor authentication.
-
-**AL-Sham — Inventory Management System**
-Full-stack (Django, Flutter, Vue.js) inventory management system for automotive parts and accessories,
-with scalable DRF APIs and role-based permissions.
 
 ## Competitions & Achievements
 
